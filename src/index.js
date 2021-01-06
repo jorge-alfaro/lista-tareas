@@ -17,7 +17,6 @@ import { crearTodoHtml } from './js/componentes';
   //   localStorage.setItem('Jorge','Alfaro');
 
   todoList.todos.forEach( crearTodoHtml );
-  todoList.pendientes();
   
 
   // const num = todoList.todos.length;
