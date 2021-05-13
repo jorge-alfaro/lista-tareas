@@ -1,6 +1,5 @@
-# Webpack Starter
+# TODO list
 
-Proyecto inicial para crear aplicaciones usando webpack.
 
 ### Notas:
 Construir modulos de node
